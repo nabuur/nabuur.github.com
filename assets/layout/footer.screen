@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:LinkBar" x="160" y="40" text="Follow us on Twitter, Join our LinkedIn Group, Become a fan on Facebook" measuredWidth="514" measuredHeight="25">
+    <font/>
+    <items x="0" y="0" width="136" height="25" text="Follow us on Twitter"/>
+    <items x="154" y="0" width="161" height="25" text="Join our LinkedIn Group"/>
+    <items x="333" y="0" width="180" height="25" text="Become a fan on Facebook"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="303" y="80" text="About NABUUR, FAQ, Contact" measuredWidth="228" measuredHeight="25">
+    <font/>
+    <items x="0" y="0" width="106" height="25" text="About NABUUR"/>
+    <items x="124" y="0" width="30" height="25" text="FAQ"/>
+    <items x="172" y="0" width="55" height="25" text="Contact"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="262" y="104" text="Volunteering in Africa, Asia, Latin-America" measuredWidth="311" measuredHeight="25">
+    <font/>
+    <items x="0" y="0" width="147" height="25" text="Volunteering in Africa"/>
+    <items x="165" y="0" width="31" height="25" text="Asia"/>
+    <items x="214" y="0" width="96" height="25" text="Latin-America"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="336" y="128" text="Site feedback, Privacy" measuredWidth="163" measuredHeight="25">
+    <font/>
+    <items x="0" y="0" width="94" height="25" text="Site feedback"/>
+    <items x="112" y="0" width="50" height="25" text="Privacy"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

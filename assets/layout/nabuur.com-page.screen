@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" y="10" measuredWidth="230" measuredHeight="48" src="nabuur.com_beta.png"/>
+  <widgets xsi:type="model:LinkBar" x="692" y="10" text="Nederlands,English,French,Español" measuredWidth="268" measuredHeight="24">
+    <font size="10"/>
+    <items x="0" y="0" width="72" height="24" text="Nederlands"/>
+    <items x="90" y="0" width="47" height="24" text="English"/>
+    <items x="155" y="0" width="43" height="24" text="French"/>
+    <items x="216" y="0" width="51" height="24" text="Español"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="10" y="63" text="My Nabuur,News,Groups,Villages,Volunteer Opportunities,Search" measuredWidth="483" measuredHeight="24">
+    <font size="10"/>
+    <items x="0" y="0" width="70" height="24" text="My Nabuur"/>
+    <items x="88" y="0" width="35" height="24" text="News"/>
+    <items x="141" y="0" width="46" height="24" text="Groups"/>
+    <items x="205" y="0" width="50" height="24" text="Villages"/>
+    <items x="273" y="0" width="149" height="24" text="Volunteer Opportunities"/>
+    <items x="440" y="0" width="42" height="24" text="Search"/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="851" y="63" text="Logout username" measuredWidth="109" measuredHeight="24">
+    <font size="10"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" measuredWidth="100" measuredHeight="6" foreground="#ffffff"/>
+  <hRuler>
+    <guides position="200"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>

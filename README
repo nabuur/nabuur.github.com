@@ -1,1 +1,23 @@
 NABUUR documentation, designs, and wireframes
+
+WIREFRAMES
+
+Using Wireframesketcher http://wireframesketcher.com/
+
+Directory layout
+
+	/assets				Our own widgets, appearing in the Assets palette
+		/annotations	Assets in the group Annotations, to be presented next 
+						to Wireframesketcher's own widgets in that group
+		/...			etc.
+		
+	/screens			Holds screen wireframes (to be reorganised in sub 
+						folders when getting out of hand)
+
+	/stories			Holds stories of screens (to be reorganised in sub 
+						folders when getting out of hand)
+
+	/sketches			Holds wireframe exports of stories to HTML, to be 
+						linked from index.html to be easily accessible
+						
+ 
