@@ -14,7 +14,7 @@
   <widgets xsi:type="model:Link" x="302" y="335" text="{bullet} more stories" measuredWidth="108" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Text" x="130" y="244" width="300" height="92" text="Pellentesque commodo eros a enim. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Sed libero. Aliquam erat volutpat. Etiam vitae tortor. Morbi vestibulum volutpat enim." measuredWidth="300" measuredHeight="92" dummyText="true">
+  <widgets xsi:type="model:Text" x="130" y="244" width="280" height="116" text="Pellentesque commodo eros a enim. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Sed libero. Aliquam erat volutpat. Etiam vitae tortor. Morbi vestibulum volutpat enim." measuredWidth="280" measuredHeight="116" dummyText="true">
     <font/>
   </widgets>
   <hRuler/>

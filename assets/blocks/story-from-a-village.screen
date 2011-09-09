@@ -14,7 +14,7 @@
   <widgets xsi:type="model:Text" x="11" y="65" width="151" height="102" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. " measuredWidth="151" measuredHeight="102" dummyText="true">
     <font size="11"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="11" y="170" width="300" height="92" text="Pellentesque commodo eros a enim. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Sed libero. Aliquam erat volutpat. Etiam vitae tortor. Morbi vestibulum volutpat enim." measuredWidth="300" measuredHeight="92" dummyText="true">
+  <widgets xsi:type="model:Text" x="11" y="170" width="280" height="111" text="Pellentesque commodo eros a enim. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Sed libero. Aliquam erat volutpat. Etiam vitae tortor. Morbi vestibulum volutpat enim." measuredWidth="280" measuredHeight="111" dummyText="true">
     <font/>
   </widgets>
   <hRuler/>

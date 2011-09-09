@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:WidgetGroup" x="16" y="16" measuredWidth="585" measuredHeight="241">
-    <widgets xsi:type="model:Panel" width="585" height="241" measuredWidth="585" measuredHeight="241"/>
-    <widgets xsi:type="model:Placeholder" x="24" y="27" width="173" height="113" measuredWidth="173" measuredHeight="113"/>
-    <widgets xsi:type="model:Text" x="233" y="82" width="300" height="102" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. mod orci, ac placerat dolor lectus quis orci. &#xD;&#xA;&#xD;&#xA;" measuredWidth="300" measuredHeight="102" dummyText="true">
-      <font/>
-    </widgets>
-    <widgets xsi:type="model:Label" x="233" y="19" text="Help to build a community school" measuredWidth="288" measuredHeight="33">
+  <widgets xsi:type="model:WidgetGroup" x="36" y="50" measuredWidth="630" measuredHeight="404">
+    <widgets xsi:type="model:Panel" width="630" height="404" measuredWidth="630" measuredHeight="404"/>
+    <widgets xsi:type="model:Placeholder" x="10" y="40" width="180" height="150" text="Photo village" measuredWidth="180" measuredHeight="150"/>
+    <widgets xsi:type="model:Label" x="204" y="8" text="Help to build a community school" measuredWidth="287" measuredHeight="30">
       <font size="14"/>
     </widgets>
-    <widgets xsi:type="model:Label" x="233" y="51" text="Chibolya, Zambia" measuredWidth="125" measuredHeight="29">
+    <widgets xsi:type="model:Label" x="10" y="200" text="Chibolya, Zambia" measuredWidth="126" measuredHeight="27">
       <font size="12"/>
     </widgets>
-    <widgets xsi:type="model:Button" x="376" y="192" width="157" height="33" text="Visit this Village >>" measuredWidth="157" measuredHeight="33">
+    <widgets xsi:type="model:Button" x="463" y="361" height="33" text="Visit my Village >>" measuredWidth="153" measuredHeight="33">
       <font size="12"/>
+    </widgets>
+    <widgets xsi:type="model:Map" x="10" y="238" width="180" height="150" measuredWidth="180" measuredHeight="150"/>
+    <widgets xsi:type="model:Text" x="204" y="40" width="361" height="300" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&#xA;&#xA;Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.&#xA;&#xA;Integer tincidunt. Cras dapibus. Vivamus&#xA;elementum semper nisi. Aenean &#xA;vulputate eleifend tellus." measuredWidth="361" measuredHeight="300" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Placeholder" x="534" y="273" width="80" height="80" text="Photo LR" measuredWidth="80" measuredHeight="80"/>
+    <widgets xsi:type="model:Rectangle" x="10" y="10" width="180" height="25" text="Featured village" measuredWidth="180" measuredHeight="25" background="#cccccc">
+      <font/>
     </widgets>
   </widgets>
   <hRuler/>

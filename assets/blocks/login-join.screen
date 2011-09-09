@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Rectangle" x="341" y="210" width="300" height="170" measuredWidth="300" measuredHeight="170">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="360" y="338" text="username" measuredWidth="76" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="450" y="338" text="password" measuredWidth="76" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="540" y="337" text="Login now" measuredWidth="88" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="360" y="310" text="Already a member?" measuredWidth="128" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="360" y="280" text="Join now!" measuredWidth="63" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="487" y="230" text="LOGIN/JOIN BOX&#xA;&#xA;To be designed still" measuredWidth="138" measuredHeight="61" annotation="true">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

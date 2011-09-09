@@ -3,35 +3,35 @@
   <widgets xsi:type="model:Master" measuredWidth="960" measuredHeight="87">
     <screen xsi:type="model:Screen" href="../assets/layout/nabuur.com-page.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" y="423" measuredWidth="311" measuredHeight="300">
-    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="260" y="893" measuredWidth="514" measuredHeight="113">
+  <widgets xsi:type="model:Master" x="260" y="1005" measuredWidth="514" measuredHeight="113">
     <screen xsi:type="model:Screen" href="../assets/layout/footer.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="10" y="100" width="290" height="300" text="*NABUUR makes it easy to make a difference*&#xA;&#xA;Nabuur.com is an online volunteering platform that links Neighbours (online volunteers) with Villages (local communities) in Africa, Asia and Latin America. Connected through Nabuur.com, Neighbours and local communities learn about each other, share ideas and find solutions to local issues.&#xA;&#xA;Everybody has something to offer, and everything is done online.&#xA;&#xA;Do you have a little spare time and the desire to make a difference?" measuredWidth="290" measuredHeight="300">
+  <widgets xsi:type="model:Text" x="10" y="100" width="630" height="182" text="*NABUUR makes it easy to make a difference*&#xA;&#xA;Nabuur is an online volunteering platform that links Neighbours (online volunteers) with Villages (local communities) in Africa, Asia and Latin America. Connected through Nabuur, Neighbours and local communities learn about each other, share ideas and find solutions to local issues.&#xA;&#xA;Everybody has something to offer, and everything is done online.&#xA;&#xA;Do you have a little spare time and the desire to make a difference?" measuredWidth="630" measuredHeight="182">
     <font bold="false"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="330" y="423" measuredWidth="311" measuredHeight="300">
-    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="660" y="423" measuredWidth="310" measuredHeight="300">
+  <widgets xsi:type="model:Master" x="650" y="700" measuredWidth="310" measuredHeight="300">
     <screen xsi:type="model:Screen" href="../assets/blocks/update-from-blog.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="660" y="100" measuredWidth="300" measuredHeight="60">
-    <screen xsi:type="model:Screen" href="../assets/blocks/banner-things-you-can-do.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="660" y="170" measuredWidth="300" measuredHeight="112">
+  <widgets xsi:type="model:Master" x="650" y="281" measuredWidth="300" measuredHeight="112">
     <screen xsi:type="model:Screen" href="../assets/blocks/nabuur-today.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="660" y="300" measuredWidth="300" measuredHeight="110">
+  <widgets xsi:type="model:Master" x="650" y="420" measuredWidth="300" measuredHeight="110">
     <screen xsi:type="model:Screen" href="../assets/blocks/tagcloud.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="660" y="733" measuredWidth="300" measuredHeight="140">
+  <widgets xsi:type="model:Master" x="650" y="545" measuredWidth="300" measuredHeight="140">
     <screen xsi:type="model:Screen" href="../assets/blocks/supporters.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="330" y="100" measuredWidth="300" measuredHeight="300">
-    <screen xsi:type="model:Screen" href="../assets/blocks/featured-village.screen#/"/>
+  <widgets xsi:type="model:Master" x="10" y="700" measuredWidth="311" measuredHeight="300">
+    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="10" y="281" measuredWidth="630" measuredHeight="404">
+    <screen xsi:type="model:Screen" href="../assets/blocks/FeaturedVillage.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="330" y="700" measuredWidth="311" measuredHeight="300">
+    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="650" y="98" measuredWidth="300" measuredHeight="170">
+    <screen xsi:type="model:Screen" href="../assets/blocks/login-join.screen#/"/>
   </widgets>
   <hRuler/>
   <vRuler/>
