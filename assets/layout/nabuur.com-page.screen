@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Image" y="10" measuredWidth="230" measuredHeight="48" src="nabuur.com_beta.png"/>
-  <widgets xsi:type="model:LinkBar" x="692" y="10" text="Nederlands,English,French,Español" measuredWidth="268" measuredHeight="24">
+  <widgets xsi:type="model:LinkBar" x="616" y="10" text="{country-flag2} Nederlands,{country-flag1} English,{country-flag1} French,{country-flag2} Español" measuredWidth="344" measuredHeight="24">
     <font size="10"/>
-    <items x="0" y="0" width="72" height="24" text="Nederlands"/>
-    <items x="90" y="0" width="47" height="24" text="English"/>
-    <items x="155" y="0" width="43" height="24" text="French"/>
-    <items x="216" y="0" width="51" height="24" text="Español"/>
+    <items x="0" y="0" width="91" height="24" text="{country-flag2} Nederlands"/>
+    <items x="109" y="0" width="66" height="24" text="{country-flag1} English"/>
+    <items x="193" y="0" width="62" height="24" text="{country-flag1} French"/>
+    <items x="273" y="0" width="70" height="24" text="{country-flag2} Español"/>
   </widgets>
   <widgets xsi:type="model:LinkBar" x="10" y="63" text="My Nabuur,News,Groups,Villages,Volunteer Opportunities,Search" measuredWidth="483" measuredHeight="24">
     <font size="10"/>

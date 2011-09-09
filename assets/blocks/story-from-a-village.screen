@@ -8,7 +8,10 @@
     <font size="16" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Placeholder" x="10" y="70" width="150" height="90" measuredWidth="150" measuredHeight="90"/>
-  <widgets xsi:type="model:Text" x="10" y="170" width="180" height="120" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient " measuredWidth="180" measuredHeight="120" dummyText="true">
+  <widgets xsi:type="model:Text" x="10" y="170" width="180" height="101" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient " measuredWidth="180" measuredHeight="101" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="82" y="270" text="{bullet} more stories" measuredWidth="108" measuredHeight="25">
     <font/>
   </widgets>
   <hRuler/>
