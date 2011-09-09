@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Group" x="294" y="362" width="300" height="140" measuredWidth="300" measuredHeight="140"/>
+  <widgets xsi:type="model:Text" x="304" y="372" text="NABUUR is supported by" measuredWidth="166" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" x="304" y="400" measuredWidth="139" measuredHeight="96" src="../layout/hivos.png"/>
+  <widgets xsi:type="model:Image" x="456" y="421" measuredWidth="128" measuredHeight="53" src="../layout/google.gif"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
