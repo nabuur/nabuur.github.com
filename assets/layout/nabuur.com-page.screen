@@ -8,19 +8,23 @@
     <items x="193" y="0" width="62" height="24" text="{country-flag1} French"/>
     <items x="273" y="0" width="70" height="24" text="{country-flag2} Español"/>
   </widgets>
-  <widgets xsi:type="model:LinkBar" x="10" y="63" text="My Nabuur,News,Groups,Villages,Volunteer Opportunities,Search" measuredWidth="483" measuredHeight="24">
+  <widgets xsi:type="model:LinkBar" x="10" y="63" text="My Nabuur,Volunteer Opportunities,Villages,Groups,News,Blog,Search" measuredWidth="532" measuredHeight="24">
     <font size="10"/>
     <items x="0" y="0" width="70" height="24" text="My Nabuur"/>
-    <items x="88" y="0" width="35" height="24" text="News"/>
-    <items x="141" y="0" width="46" height="24" text="Groups"/>
-    <items x="205" y="0" width="50" height="24" text="Villages"/>
-    <items x="273" y="0" width="149" height="24" text="Volunteer Opportunities"/>
-    <items x="440" y="0" width="42" height="24" text="Search"/>
+    <items x="88" y="0" width="149" height="24" text="Volunteer Opportunities"/>
+    <items x="255" y="0" width="50" height="24" text="Villages"/>
+    <items x="323" y="0" width="46" height="24" text="Groups"/>
+    <items x="387" y="0" width="35" height="24" text="News"/>
+    <items x="440" y="0" width="31" height="24" text="Blog"/>
+    <items x="489" y="0" width="42" height="24" text="Search"/>
   </widgets>
   <widgets xsi:type="model:Link" x="851" y="63" text="Logout username" measuredWidth="109" measuredHeight="24">
     <font size="10"/>
   </widgets>
   <widgets xsi:type="model:HLine" measuredWidth="100" measuredHeight="6" foreground="#ffffff"/>
+  <widgets xsi:type="model:Note" x="350" y="20" text="- different order&#xA;- added &quot;blog&quot;" measuredWidth="139" measuredHeight="44" annotation="true">
+    <font/>
+  </widgets>
   <hRuler>
     <guides position="200"/>
   </hRuler>

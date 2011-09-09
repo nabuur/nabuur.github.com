@@ -1,46 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Master" measuredWidth="956" measuredHeight="78">
+  <widgets xsi:type="model:Master" measuredWidth="960" measuredHeight="87">
     <screen xsi:type="model:Screen" href="../assets/layout/nabuur.com-page.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="30" y="150" measuredWidth="200" measuredHeight="300">
+  <widgets xsi:type="model:Master" y="423" measuredWidth="311" measuredHeight="300">
     <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="30" y="470" measuredWidth="200" measuredHeight="300">
-    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="30" y="790" measuredWidth="200" measuredHeight="300">
-    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="780" y="100" measuredWidth="130" measuredHeight="251">
-    <screen xsi:type="model:Screen" href="../assets/blocks/endorsement.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="780" y="360" measuredWidth="130" measuredHeight="251">
-    <screen xsi:type="model:Screen" href="../assets/blocks/endorsement.screen#/"/>
-  </widgets>
-  <widgets xsi:type="model:Rectangle" x="30" y="100" width="200" height="40" text="Join the NABUUR chat" measuredWidth="200" measuredHeight="40">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Master" x="260" y="1136" measuredWidth="514" measuredHeight="113">
+  <widgets xsi:type="model:Master" x="260" y="893" measuredWidth="514" measuredHeight="113">
     <screen xsi:type="model:Screen" href="../assets/layout/footer.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="250" y="101" width="500" height="200" text="*NABUUR makes it easy to make a difference*&#xA;&#xA;Nabuur.com is an online volunteering platform that links Neighbours (online volunteers) with Villages (local communities) in Africa, Asia and Latin America. Connected through Nabuur.com, Neighbours and local communities learn about each other, share ideas and find solutions to local issues.&#xA;&#xA;Everybody has something to offer, and everything is done online.&#xA;&#xA;Do you have a little spare time and the desire to make a difference?" measuredWidth="500" measuredHeight="200">
+  <widgets xsi:type="model:Text" x="10" y="100" width="290" height="300" text="*NABUUR makes it easy to make a difference*&#xA;&#xA;Nabuur.com is an online volunteering platform that links Neighbours (online volunteers) with Villages (local communities) in Africa, Asia and Latin America. Connected through Nabuur.com, Neighbours and local communities learn about each other, share ideas and find solutions to local issues.&#xA;&#xA;Everybody has something to offer, and everything is done online.&#xA;&#xA;Do you have a little spare time and the desire to make a difference?" measuredWidth="290" measuredHeight="300">
     <font bold="false"/>
   </widgets>
-  <widgets xsi:type="model:Rectangle" x="250" y="300" width="500" height="161" measuredWidth="500" measuredHeight="161" background="#cccccc">
-    <font/>
+  <widgets xsi:type="model:Master" x="330" y="423" measuredWidth="311" measuredHeight="300">
+    <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="260" y="309" width="481" height="52" text="Follow the NABUUR Blog for News and Volunteer Opportunities" measuredWidth="481" measuredHeight="52">
-    <font size="16"/>
+  <widgets xsi:type="model:Master" x="660" y="423" measuredWidth="310" measuredHeight="300">
+    <screen xsi:type="model:Screen" href="../assets/blocks/update-from-blog.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="260" y="371" text="Latest Blog Post:" measuredWidth="114" measuredHeight="17">
-    <font/>
+  <widgets xsi:type="model:Master" x="660" y="100" measuredWidth="300" measuredHeight="60">
+    <screen xsi:type="model:Screen" href="../assets/blocks/banner-things-you-can-do.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="260" y="399" text="{filled-arrow-right} Young Gunners Soccer Team to Participate in the Lusaka Tournament&#xA;       2 weeks 6 days ago" measuredWidth="475" measuredHeight="34">
-    <font/>
+  <widgets xsi:type="model:Master" x="660" y="170" measuredWidth="300" measuredHeight="112">
+    <screen xsi:type="model:Screen" href="../assets/blocks/nabuur-today.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Link" x="683" y="432" text="{bullet} more" measuredWidth="58" measuredHeight="25">
-    <font/>
+  <widgets xsi:type="model:Master" x="660" y="300" measuredWidth="300" measuredHeight="110">
+    <screen xsi:type="model:Screen" href="../assets/blocks/tagcloud.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="660" y="733" measuredWidth="300" measuredHeight="140">
+    <screen xsi:type="model:Screen" href="../assets/blocks/supporters.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Master" x="330" y="100" measuredWidth="300" measuredHeight="300">
+    <screen xsi:type="model:Screen" href="../assets/blocks/featured-village.screen#/"/>
   </widgets>
   <hRuler/>
   <vRuler/>

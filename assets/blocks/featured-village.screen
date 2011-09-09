@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Placeholder" x="258" y="234" width="300" height="300" text="FEATURED VILLAG(S) AND/OR TASKS" measuredWidth="300" measuredHeight="300"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
