@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Group" width="130" height="240" measuredWidth="130" measuredHeight="240"/>
+  <widgets xsi:type="model:Rectangle" width="130" height="240" measuredWidth="130" measuredHeight="240" background="#eeeeee">
+    <font/>
+  </widgets>
   <widgets xsi:type="model:Placeholder" x="10" y="10" width="110" height="91" measuredWidth="110" measuredHeight="91"/>
-  <widgets xsi:type="model:Text" x="10" y="160" width="110" height="91" text="Praesent nonu mmy mi in odio. Nunc interdum lacus sit amet." measuredWidth="110" measuredHeight="91" dummyText="true">
+  <widgets xsi:type="model:Text" x="10" y="160" width="110" height="70" text="Praesent nonu mmy mi in odio. Nunc interdum lacus sit amet." measuredWidth="110" measuredHeight="70" dummyText="true">
     <font/>
   </widgets>
   <widgets xsi:type="model:TextArea" x="10" y="110" width="110" height="40" text="Vivamus elem&#xA;entum semper" measuredWidth="110" measuredHeight="40" background="#cccccc">

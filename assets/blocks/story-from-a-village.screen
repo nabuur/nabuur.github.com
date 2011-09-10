@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Group" width="200" height="300" measuredWidth="200" measuredHeight="300"/>
+  <widgets xsi:type="model:Rectangle" width="200" height="300" measuredWidth="200" measuredHeight="300" background="#eeeeee">
+    <font/>
+  </widgets>
   <widgets xsi:type="model:Rectangle" x="10" y="10" width="180" height="25" text="Story from a village" measuredWidth="180" measuredHeight="25" background="#cccccc">
     <font/>
   </widgets>

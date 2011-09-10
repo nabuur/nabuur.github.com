@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Rectangle" x="525" y="177" width="200" height="200" measuredWidth="200" measuredHeight="200" background="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="532" y="340" text="Click here to register on NABUUR" measuredWidth="185" measuredHeight="15">
+    <font size="9"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" x="565" y="190" width="120" height="120" measuredWidth="120" measuredHeight="120"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

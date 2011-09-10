@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Group" x="523" y="249" width="300" height="112" measuredWidth="300" measuredHeight="112"/>
-  <widgets xsi:type="model:Text" x="531" y="253" width="282" height="108" text="*NABUUR today*&#xA;&#xA;38795 Neighbours, 93 Villages, 10 groups, 1552 ways you can help, 10 stories told this month with 59 visitors at this moment." measuredWidth="282" measuredHeight="108">
+  <widgets xsi:type="model:Rectangle" x="152" y="126" width="500" height="85" measuredWidth="500" measuredHeight="85" background="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="160" y="130" width="482" height="71" text="*NABUUR today*&#xA;&#xA;38795 Neighbours, 93 Villages, 10 groups, 1552 ways you can help, 10 stories told this month with 59 visitors at this moment." measuredWidth="482" measuredHeight="71">
     <font/>
   </widgets>
   <hRuler/>

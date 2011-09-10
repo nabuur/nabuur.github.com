@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Text" x="240" y="93" text="Clinton on NABUUR" measuredWidth="130" measuredHeight="17">
+    <font size="11"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" x="205" y="109" width="200" height="80" measuredWidth="200" measuredHeight="80"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

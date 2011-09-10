@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Group" x="50" y="40" width="300" height="60" measuredWidth="300" measuredHeight="60"/>
-  <widgets xsi:type="model:Text" x="67" y="57" text="10 things you can do today" measuredWidth="261" measuredHeight="25">
+  <widgets xsi:type="model:Group" x="50" y="40" width="500" height="60" measuredWidth="500" measuredHeight="60" background="#cccccc"/>
+  <widgets xsi:type="model:Text" x="67" y="57" width="473" text="10 things you can do today" measuredWidth="473" measuredHeight="25" textAlignment="Center">
     <font size="16"/>
   </widgets>
   <hRuler/>
