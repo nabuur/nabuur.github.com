@@ -9,7 +9,7 @@
   <widgets xsi:type="model:Text" x="10" y="100" width="630" height="182" text="*NABUUR makes it easy to make a difference*&#xA;&#xA;Nabuur is an online volunteering platform that links Neighbours (online volunteers) with Villages (local communities) in Africa, Asia and Latin America. Connected through Nabuur, Neighbours and local communities learn about each other, share ideas and find solutions to local issues.&#xA;&#xA;Everybody has something to offer, and everything is done online.&#xA;&#xA;Do you have a little spare time and the desire to make a difference?" measuredWidth="630" measuredHeight="182">
     <font bold="false"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="650" y="700" measuredWidth="310" measuredHeight="300">
+  <widgets xsi:type="model:Master" x="650" y="700" measuredWidth="300" measuredHeight="300">
     <screen xsi:type="model:Screen" href="../assets/blocks/update-from-blog.screen#/"/>
   </widgets>
   <widgets xsi:type="model:Master" x="650" y="281" measuredWidth="300" measuredHeight="112">
@@ -21,17 +21,20 @@
   <widgets xsi:type="model:Master" x="650" y="545" measuredWidth="300" measuredHeight="140">
     <screen xsi:type="model:Screen" href="../assets/blocks/supporters.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="10" y="700" measuredWidth="311" measuredHeight="300">
+  <widgets xsi:type="model:Master" x="10" y="700" measuredWidth="300" measuredHeight="300">
     <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
   </widgets>
   <widgets xsi:type="model:Master" x="10" y="281" measuredWidth="630" measuredHeight="404">
     <screen xsi:type="model:Screen" href="../assets/blocks/FeaturedVillage.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Master" x="330" y="700" measuredWidth="311" measuredHeight="300">
+  <widgets xsi:type="model:Master" x="330" y="700" measuredWidth="300" measuredHeight="300">
     <screen xsi:type="model:Screen" href="../assets/blocks/story-from-a-village.screen#/"/>
   </widgets>
   <widgets xsi:type="model:Master" x="650" y="98" measuredWidth="300" measuredHeight="170">
     <screen xsi:type="model:Screen" href="../assets/blocks/login-join.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="798" y="270" text="TO CONSIDER:&#xA;&#xA;- twitter/tweets&#xA;- facebook social/like" measuredWidth="174" measuredHeight="61" annotation="true">
+    <font/>
   </widgets>
   <hRuler/>
   <vRuler/>
